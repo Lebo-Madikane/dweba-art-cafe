@@ -4,8 +4,10 @@ import Gallery from '../components/Gallery';
 import OurStory from '../components/OurStory';
 import Cafe from '../components/Cafe';
 import Carousel from '../components/Carousel';
-import Footer from '../components/Footer';
 import ContactForm from '../components/ContactForm';
+import Footer from '../components/Footer';
+
+
 
 const HomePage = () => {
 
