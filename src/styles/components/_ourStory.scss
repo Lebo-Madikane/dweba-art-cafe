@@ -1,0 +1,30 @@
+
+.about-us {
+    width: 100%;
+    min-height: 300px;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    border: 2px solid #000;
+
+    h2 {
+        width: fit-content;
+        font-size: 1.8em;
+        margin: 0 auto;
+    }
+
+    h4 {
+        width: fit-content;
+        font-size: 1.1em;
+        margin: 0 auto;
+    }
+
+    p {
+        width: 85%;
+        margin: 0 auto;
+        font-size: 1.05em;
+    }
+}
